@@ -11,3 +11,4 @@
 
 
 ## Practica javascript - piano web
+![alt text](https://github.com/stevenfeliz/piano-web-js/blob/main/pianophoto.PNG)
